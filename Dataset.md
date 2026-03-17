@@ -1,0 +1,3 @@
+[WELFake Dataset](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification)
+
+[ISOT Dataset](https://www.kaggle.com/datasets/rahulogoel/isot-fake-news-dataset/data)
