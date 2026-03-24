@@ -68,6 +68,7 @@ TF-IDF converts text into numerical vectors
 Model Training
 Logistic Regression
 Naïve Bayes
+Convolutional Neural Network
 Model Evaluation
 Accuracy
 Precision
